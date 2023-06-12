@@ -38,7 +38,8 @@ def circulate():
 ```
 
 ## Output:
-![image](https://github.com/NAVEENMATHIVANAN/Circulate-the-values-of-N-variables/assets/119394582/addc00d6-c885-4bc1-b671-798842068537)
+![image](https://github.com/NAVEENMATHIVANAN/Circulate-the-values-of-N-variables/assets/119394582/903f2d2f-57bc-461e-8923-bb5f9a60e539)
+
 
 
 
